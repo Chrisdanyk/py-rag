@@ -104,6 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits
 
-This project is based on the tutorial "Build a Local AI Agent with Python, Ollama, LangChain and SingleStore" by Volodymyr Tkachuk, Engineering Manager at SingleStore. Original tutorial can be found at: [SingleStore Blog](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore/)
-
-The code has been adapted to use pip and requirements.txt instead of Poetry for dependency management.
+This project is based on the tutorial "Build a Local AI Agent with Python, Ollama, LangChain and SingleStore" by Volodymyr Tkachuk, Engineering Manager at SingleStore. Original tutorial can be found at: [SingleStore Blog](https://www.singlestore.com/blog/build-a-local-ai-agent-python-ollama-langchain-singlestore/).

@@ -1,7 +1,6 @@
-langchain>=0.1.0
-langchain-ollama>=0.0.1
-langchain-singlestore>=0.0.1
-langchain-core>=0.1.0
-singlestoredb>=0.5.0
-pandas>=2.0.0
-docker>=6.0.0 
+langchain==0.3.25
+langchain-ollama==0.3.3
+langchain-singlestore==1.0.0
+langchain-core==0.3.60
+singlestoredb==1.13.1
+docker==7.1.0
